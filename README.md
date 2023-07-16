@@ -8,7 +8,7 @@ Navigate to the directory where you want to clone the project: Use the cd comman
 ### `cd Documents`
 
 Clone the project into your local by running the below command
-### `git clone https://github.com/gauravkumarpradhan/VolopayCardSystem.git`
+### `git clone https://github.com/gauravkumarpradhan/Trello.git`
 
 Enter the cloned project directory: After the cloning process completes, use the cd command to enter the project directory:
 ### `cd projectname`
@@ -29,7 +29,6 @@ Tech Stack used for making the Project are
   <li>Redux</li>
   <li>Javascript</li>
   <li>Css</li>
-  <li>react-icons</li>
 </ul>
   
 
