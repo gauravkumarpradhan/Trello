@@ -1,4 +1,4 @@
-import { boardList } from "./dummy";
+import { boardList } from "./dummy_db.js";
 
 export const getBoardList = () => {
     return boardList;
