@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+.main-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+  margin-top: 7px;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -11,6 +18,13 @@ body {
 
 .main_section {
   display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sub_section {
+  display: flex;
   flex-direction: row;
+  width: 100%;
   gap: 12px;
 }

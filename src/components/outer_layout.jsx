@@ -6,7 +6,6 @@ import { useDispatch } from 'react-redux';
 import { addNewBoard, addTaskToStage } from '../store/actions/actions';
 
 const OuterLayout = (props) => {
-    console.log("Porps", props);
 
     const { title, list, layoutType } = props;
     const dispatch = useDispatch();

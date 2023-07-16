@@ -9,8 +9,8 @@ export const layoutTypeObj = {
 };
 
 export const inputPlaceholderObj = {
-    BOARD: 'Add a board',
-    STAGE: 'Add a task'
+    BOARD: 'Add a board ...',
+    STAGE: 'Add a task ...'
 };
 
 export const reducerObj = {

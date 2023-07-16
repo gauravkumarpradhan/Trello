@@ -7,8 +7,14 @@ const App = () => {
 
     return (
         <div className='main_section'>
-            <BoardsList />
-            <StagesSection />
+            <div className='main-title'>
+                Taco's Tacos
+            </div>
+            <div className='sub_section'>
+                <BoardsList />
+                <StagesSection />
+            </div>
+
         </div>
     );
 };

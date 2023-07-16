@@ -30,8 +30,12 @@ const Cards = (props) => {
             draggable={layoutType != layoutTypeObj.BOARD}
             onDragStart={handleOnDrag}
             onClick={() => handleClickOnCardsBasedOnType(layoutType, cardIndex)}
+            style={{ cursor: layoutType == layoutTypeObj.BOARD ? 'pointer' : 'grabbing' }}
         >
-            {cardTitle}
+            <div>
+                {cardTitle}
+            </div>
+
         </div >
     )
 };
