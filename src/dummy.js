@@ -42,7 +42,7 @@ export const boardList = [
         boardStages: {
             todo: [
                 {
-                    taskTitle: "Build A Better Burrito: 7 years To Success",
+                    taskTitle: "A Better Burrito: 7 years To Success",
                 },
                 {
                     taskTitle: "Nacho Ordinary Birthday",
@@ -53,10 +53,10 @@ export const boardList = [
             ],
             doing: [
                 {
-                    taskTitle: "The Taco Truck World Tour",
+                    taskTitle: "o Truck World Tour",
                 },
                 {
-                    taskTitle: "Operation Awesone Sauce",
+                    taskTitle: "ion Awesone Sauce",
                 },
                 {
                     taskTitle: "No Filter instagram campaign",
@@ -64,13 +64,13 @@ export const boardList = [
             ],
             done: [
                 {
-                    taskTitle: "Focus Group ",
+                    taskTitle: "cus Group ",
                 },
                 {
-                    taskTitle: "New Swag",
+                    taskTitle: "w Swag",
                 },
                 {
-                    taskTitle: "Eco Friendly",
+                    taskTitle: "Eco Frndly",
                 }
             ],
         }

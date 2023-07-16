@@ -5,7 +5,6 @@ import OuterLayout from '../components/outer_layout';
 import { fetchBoardsList } from '../store/actions/actions';
 
 const BoardsList = () => {
-
     const data = useSelector(state => state.boards.boardsList);
     const dispatch = useDispatch();
 
