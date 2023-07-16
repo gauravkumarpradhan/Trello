@@ -1,0 +1,26 @@
+.main_container {
+  padding: 8px;
+  background: #c5c5c5;
+  width: 300px;
+  border-radius: 8px;
+  margin: 12px 0;
+}
+
+.list_section {
+  display: flex;
+  flex-direction: column;
+}
+
+.layout_title {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.input_box {
+  border: none;
+  border-radius: 4px;
+  width: calc(100% - 8px);
+  margin: 0;
+  padding: 4px;
+}

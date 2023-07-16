@@ -1,0 +1,16 @@
+:root {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #68bbe3;
+  padding-left: 12px;
+}
+
+.main_section {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
