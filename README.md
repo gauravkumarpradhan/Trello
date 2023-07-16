@@ -46,6 +46,7 @@ Points which i have achieved in the project which was told to implement:
 ### Some of the screenshots from the website
 <hr/>
 
+![Screenshot_20230717_022042](https://github.com/gauravkumarpradhan/Trello/assets/137155587/2d1817ae-27e0-4a33-a3e4-4297e3929cec)
 
 
 
